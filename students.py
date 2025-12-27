@@ -4,7 +4,7 @@
 
 def student_details(name, rollNo , course , grade):
     result = (
-        f"Students Name: {name}",
+        f"Student Name: {name}",
         f"Roll No: {rollNo}",
         f"Course: {course}",
         f"Grade: {grade}",
